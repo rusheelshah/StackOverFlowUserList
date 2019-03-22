@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User List</string>
+    <string name="offline_error_message">You seem to be offline, please try again</string>
+    <string name="bronze_text">Bronze:</string>
+    <string name="silver_text">Silver:</string>
+    <string name="gold_text">Gold:</string>
+</resources>
