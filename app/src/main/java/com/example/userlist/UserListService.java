@@ -1,8 +1,6 @@
 package com.example.userlist;
 
 
-import java.util.List;
-
 import io.reactivex.Observable;
 import io.reactivex.schedulers.Schedulers;
 import retrofit2.Retrofit;
