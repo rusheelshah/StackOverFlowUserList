@@ -23,3 +23,4 @@ For all of the above dependencies I added, I am still learning as I go so I know
 ## Notes
 
 1. Included an offline flow if a user tries to enter the app without any network connection. There were no requirements around this so I just added a message to notify the user
+2. Tested on Samsung Galaxy S8, Pixel 2XL (Emulator), Nexus 6 (Emulator)
