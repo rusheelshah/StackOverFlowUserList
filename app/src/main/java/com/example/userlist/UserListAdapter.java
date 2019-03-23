@@ -76,7 +76,7 @@ public class UserListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
     private void addImageToViewHolder(UserListViewHolder holder, int position) {
         Glide.with(holder.profileImage.getContext())
                 .load(Uri.parse(dataset.get(position).profile_image))
-                .override(250, 250)
+                .override(150, 150)
                 .listener(new RequestListener<Drawable>() {
                     @Override
                     public boolean onLoadFailed(@Nullable GlideException e, Object model, Target<Drawable> target, boolean isFirstResource) {
